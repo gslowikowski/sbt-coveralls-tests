@@ -9,5 +9,3 @@ libraryDependencies += "org.specs2" %% "specs2" % "2.5" % "test"
 coverageMinimum := 80
 
 coverageFailOnMinimum := true
-
-org.scoverage.coveralls.Imports.CoverallsKeys.coverallsToken := Some("zd0jxnCMNuP0VMPVEQ8geEbqZw5q1BIRx")
